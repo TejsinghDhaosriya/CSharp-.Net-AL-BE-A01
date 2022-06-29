@@ -1,0 +1,6 @@
+C:\Users\tej\workArea\C#.Net\ClassLibraryApp\ClassLibraryApp\bin\Debug\ClassLibraryApp.dll
+C:\Users\tej\workArea\C#.Net\ClassLibraryApp\ClassLibraryApp\bin\Debug\ClassLibraryApp.pdb
+C:\Users\tej\workArea\C#.Net\ClassLibraryApp\ClassLibraryApp\obj\Debug\ClassLibraryApp.csproj.AssemblyReference.cache
+C:\Users\tej\workArea\C#.Net\ClassLibraryApp\ClassLibraryApp\obj\Debug\ClassLibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\tej\workArea\C#.Net\ClassLibraryApp\ClassLibraryApp\obj\Debug\ClassLibraryApp.dll
+C:\Users\tej\workArea\C#.Net\ClassLibraryApp\ClassLibraryApp\obj\Debug\ClassLibraryApp.pdb
